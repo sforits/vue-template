@@ -1,5 +1,14 @@
 # vue-template
 
+
+## 项目简介
+vue前端模板项目
+
+技术
+vue
+bootstrap
+ 
+
 ## Project setup
 ```
 npm install
